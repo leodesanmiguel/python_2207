@@ -1,3 +1,8 @@
+'''
+Muestra del uso de python
+calcula el costo del patentameinto
+teniendo en cuenta que los autos son nacionales
+'''
 import random as ra
 
 costosFijosTextos = [
