@@ -8,13 +8,7 @@ costosFijosTextos = [
   "alta de rentas  "
   ]
 
-costosFijos = [
-	1.5,
-	400,
-	780,
-	180,
-	220
-	]
+costosFijos = [	1.5, 	400, 	780, 	180, 	220 	]
 
 autos = [
 	('Toyota','Etios','Aibo (utilitario)','2498000'),
